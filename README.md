@@ -30,7 +30,7 @@ A full-stack clone of the Airbnb booking platform. This platform enables the use
     | **Listing Detailed View** | Photos amenties, calendar, booking form |
     | **Simple Checkout View** | Payment, confirmation, receipt |
 
-    **The importance of a user-friendly design in a booking system
+    ## The importance of a user-friendly design in a booking system
     A well-designed and friction-less booking system in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 ### Figma Design Specs
@@ -53,7 +53,7 @@ A full-stack clone of the Airbnb booking platform. This platform enables the use
 | Headings  | Circular | 700  | 24px-32px |
 | Secondary | Circular | 400 | 14px |
 
-**The importance of identifying design properties of a mock up design
+## The importance of identifying design properties of a mock up design
 Identifying design properties and recording these values keeps developers and designers in sync. Ensures consistency, improves developer handoff, supports responsive design, enables reuse, speeds up feedback, and promotes accessibility—leading to accurate, user-friendly, and efficient digital products.
 
 ---
