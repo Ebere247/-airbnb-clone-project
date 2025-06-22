@@ -38,25 +38,20 @@ A full-stack clone of the Airbnb booking platform. This platform enables the use
 
 | Name | Hex |
 |------|-----|
-| Primary | '#34967C' |
-| Secondary | '#FFA800' |
+| Primary | '#FF5A5A' |
+| Secondary | '#008489' |
 | Background | '#FFFFFF |
-| Heading text | '#FFFFFF' |
-| Background Button (Secondary)|  #161117 |
-| Background Button | #F9F9F9 |
+| Text | '#FFFFFF' |
 | Text (primary) | '#222222' |
-| Text (secondary) | '#161117' |
-| Image Container (Background) | '#EDEDED' |
+| Text (secondary) | '#717171' |
 
 **Typography**
 
 | Use | Font | Weight | Size |
 |-----|------|--------|------|
-| Heading | Source Sans Pro | 600 | 94px |
-| Base text | QuickSand | 500 | 17px |
-| Product-Headings  | QuickSand | 600 | 42 px |
-| Secondary | QuickSand | 500 | 14px-34px|
-| Price text | Quicksand | 600 | 22px |
+| Primary Font  | Circular | 500 | 16 px |
+| Headings  | Circular | 700  | 24px-32px |
+| Secondary | Circular | 400 | 14px |
 
 **The importance of identifying design properties of a mock up design
 Identifying design properties and recording these values keeps developers and designers in sync. Ensures consistency, improves developer handoff, supports responsive design, enables reuse, speeds up feedback, and promotes accessibility—leading to accurate, user-friendly, and efficient digital products.
